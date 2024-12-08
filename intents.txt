@@ -1,0 +1,10 @@
+1. Paskaidro Lambda sintaksi javascript
+2. Kā izveidot abstraktās klases C++
+3. Paskaidro ar ko atsķīrās BongoSort no QuickSort?
+4. Paskaidro QuickSort darbības principu
+5. Kas ir Binary Search
+6. Izveido ciklus vai ciklus kas izveido rombu konsolē
+7. Palīdzi optimizēt šo funckiju
+8. Kā stradā Magento plugins?
+9. Kas ir docker-compose.yml
+10. Kā debuggot xml?
